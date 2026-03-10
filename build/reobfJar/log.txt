@@ -149,9 +149,8 @@ Writing Output: C:\Users\aleks\OneDrive - Osloskolen\skole\2IMA_VGS\IM\Utvikling
   assets/camera_addon/models/item/
   assets/camera_addon/models/item/handheld_camera.json
   assets/camera_addon/textures/
-  assets/camera_addon/textures/vista/
-  assets/camera_addon/textures/vista/cassette_tape/
-  assets/camera_addon/textures/vista/cassette_tape/handheld_camera.png
+  assets/camera_addon/textures/item/
+  assets/camera_addon/textures/item/handheld_camera.png
   com/
   com/bbqsauce/
   com/bbqsauce/cameraaddon/
@@ -160,9 +159,8 @@ Writing Output: C:\Users\aleks\OneDrive - Osloskolen\skole\2IMA_VGS\IM\Utvikling
   com/bbqsauce/cameraaddon/ModItems.class
   data/
   data/camera_addon/
+  data/camera_addon/cassette_tape/
+  data/camera_addon/cassette_tape/camera.json
   data/camera_addon/recipes/
   data/camera_addon/recipes/handheld_camera.json
-  data/camera_addon/vista/
-  data/camera_addon/vista/cassette_tape/
-  data/camera_addon/vista/cassette_tape/camera.json
   pack.mcmeta
