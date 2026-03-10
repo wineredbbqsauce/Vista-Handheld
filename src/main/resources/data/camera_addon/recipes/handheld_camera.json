@@ -1,10 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["GGG", "ILI", "III"],
+  "pattern": ["GGG", "WRT", "GGG"],
   "key": {
-    "G": { "item": "minecraft:glass_pane" },
-    "I": { "item": "minecraft:iron_ingot" },
-    "L": { "item": "minecraft:redstone" }
+    "G": { "item": "minecraft:oak_planks" },
+    "W": { "item": "vista:viewfinder" },
+    "R": { "item": "minecraft:redstone" },
+    "T": { "item": "minecraft:tinted_glass" }
   },
   "result": {
     "item": "camera_addon:handheld_camera",

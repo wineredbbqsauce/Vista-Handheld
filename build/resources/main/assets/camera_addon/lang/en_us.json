@@ -1,3 +1,4 @@
 {
-  "item.camera_addon.handheld_camera": "Handheld Camera"
+  "item.camera_addon.handheld_camera": "Handheld Camera",
+  "itemGroup.camera_addon": "Camera Addon"
 }
