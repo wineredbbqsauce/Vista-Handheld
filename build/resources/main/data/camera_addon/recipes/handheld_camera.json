@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["GGG", "WRT", "GGG"],
   "key": {
-    "G": { "item": "minecraft:oak_planks" },
+    "G": { "tag": "minecraft:planks" },
     "W": { "item": "vista:viewfinder" },
     "R": { "item": "minecraft:redstone" },
     "T": { "item": "minecraft:tinted_glass" }
